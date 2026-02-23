@@ -1,5 +1,5 @@
 #  About Me:
-Hello World! I'm Tommaso a CS student in Italy.  I got my Bachelor's Degree in Computer Science in December 2024, and I'm currently studying for my MSc in data analytics
+Hello World! I'm Tommaso a CS student in Italy.  I got my Bachelor's Degree in Computer Science in October 2024, and I'm currently studying for my MSc in data analytics
 
 
 ## 🌐 Socials:
